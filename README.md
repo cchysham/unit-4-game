@@ -1,1 +1,2 @@
 # unit-4-game
+Crystal guess game. Works by creating a random value between 1-12 for each of the crystals and a random value between 19 and 120 for the target number. Upon clicking one of the crystals, the value of the crystal is added to the player's total and a check is run to see if the player is at or over the target amount. A win or loss results in the appropriate count being displayed to the screen and then the game is reset with new values for the crystals and the target amount. 
